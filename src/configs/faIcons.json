@@ -1,0 +1,21 @@
+{
+    "sizes": {
+        "default": null,
+        "is-small": null,
+        "is-medium": "lg",
+        "is-large": "2x"
+    },
+    "iconPrefix": "faIconPrefix",
+    "internalIcons": {
+        "information": "info-circle",
+        "alert": "exclamation-triangle",
+        "alert-circle": "exclamation-circle",
+        "chevron-right": "angle-right",
+        "chevron-left": "angle-left",
+        "chevron-down": "angle-down",
+        "eye-off": "eye-slash",
+        "menu-down": "caret-down",
+        "menu-up": "caret-up",
+        "close-circle": "times-circle"
+    }
+}

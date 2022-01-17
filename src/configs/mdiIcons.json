@@ -1,0 +1,9 @@
+{
+    "sizes": {
+        "default": "mdi-24px",
+        "is-small": null,
+        "is-medium": "mdi-36px",
+        "is-large": "mdi-48px"
+    },
+    "iconPrefix": "mdi-"
+}
